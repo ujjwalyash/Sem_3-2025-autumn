@@ -59,6 +59,7 @@ Only core courses are mentioned.
 
 **Course Website(s)**:
 
+- [**Course webpage**](https://www.cse.iitb.ac.in/~ajitvr/CS215_Fall2025/)
 - [**Course webpage**](https://docs.google.com/document/d/1hJsh_aPXoxw60PqZGtcri7NGXg4RPfQXIgstBEEuYc4)
 - [**Moodle**](https://moodle.iitb.ac.in/course/view.php?id=3946) - All materials will be uploaded on **Moodle**, announcements via **Moodle**.
 
