@@ -69,7 +69,7 @@ Only core courses are mentioned.
 
 **Course Website(s)**:
 
-[**Link for all you need to know (Trust me, presently it is better than this repo for this course)**](https://www.cse.iitb.ac.in/~akg/courses/2024-ds/)
+[**Link for all you need to know (Trust me, presently it is better than this repo for this course)**](https://www.cse.iitb.ac.in/~akg/courses/2025-ds/)
 - [**Course Website**](https://www.cse.iitb.ac.in/course_vm/cs433/login/)
 - [**Piazza**](https://piazza.com/class/mdmn77h4kgp3i1)
 
@@ -92,3 +92,4 @@ Only core courses are mentioned.
 - **MA403**
 - **SI423**
 - **SC639**
+
