@@ -71,6 +71,7 @@ Only core courses are mentioned.
 
 [**Link for all you need to know (Trust me, presently it is better than this repo for this course)**](https://www.cse.iitb.ac.in/~akg/courses/2025-ds/)
 - [**Course Website**](https://www.cse.iitb.ac.in/course_vm/cs433/login/)
+- [**Introduction To Algorithms**](file:///C:/Users/ADITYA%20UJJWAL/Desktop/Acads/CS/CS213_DSA/IntroductionToAlgorithms.pdf)
 - [**Piazza**](https://piazza.com/class/mdmn77h4kgp3i1)
 
 ### [CS 230](CS230) / [CS 231](CS231): Digital Logic Design and Computer Architecture
@@ -92,4 +93,5 @@ Only core courses are mentioned.
 - **MA403**
 - **SI423**
 - **SC639**
+
 
