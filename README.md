@@ -84,6 +84,7 @@ Only core courses are mentioned.
 - [**Prof. Sayandeep's Website**](https://sites.google.com/view/sayandeepsaha/digital-logic-and-computer-architecture-theory-lab)
 - [**Course Website**](https://cs230-iitb.github.io/autumn-2025/)
 - [**Piazza**](https://piazza.com/class/mdif8qfipfv274)
+- [**Lab Spreadsheet**](https://docs.google.com/spreadsheets/d/1cO_I0VBXuxfiaIrORDueDLwtsPEQy6bSRY--WCSAmUg/edit?gid=2048641762#gid=2048641762)
 
 ## [Popular Electives](PopularElectives)
 
@@ -93,5 +94,6 @@ Only core courses are mentioned.
 - **MA403**
 - **SI423**
 - **SC639**
+
 
 
